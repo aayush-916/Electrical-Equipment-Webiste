@@ -22,7 +22,7 @@ const Services = () => {
           <div className="service-grid">
             <div className="service-card">
               <FaPlug className="icon icon-plug" />
-              <h3>Home Electrical Setup</h3>
+              <h3>Geeks Home Electrical Setup</h3>
               <p>
                 We handle wiring, socket installations, switches, surge protection, and everything in between for a safe and energy-efficient home.
               </p>
@@ -30,7 +30,7 @@ const Services = () => {
 
             <div className="service-card">
               <FaLightbulb className="icon icon-bulb" />
-              <h3>Smart Lighting Solutions</h3>
+              <h3>Geeks Smart Lighting Solutions</h3>
               <p>
                 Bring your space to life with automated lighting systems, motion sensors, and smart bulbs. Control everything at your fingertips.
               </p>
@@ -38,7 +38,7 @@ const Services = () => {
 
             <div className="service-card">
               <FaTools className="icon icon-tools" />
-              <h3>Appliance Installation</h3>
+              <h3>Geeks Appliance Installation</h3>
               <p>
                 We help install household and office appliances like fans, geysers, inverters, and heavy-duty equipment with precision and care.
               </p>
@@ -46,7 +46,7 @@ const Services = () => {
 
             <div className="service-card">
               <FaSolarPanel className="icon icon-solar" />
-              <h3>Solar Energy Integration</h3>
+              <h3>Geeks Solar Energy Integration</h3>
               <p>
                 Save energy and reduce costs by switching to solar. Our team handles setup, maintenance, and system design for renewable power.
               </p>
@@ -54,7 +54,7 @@ const Services = () => {
 
             <div className="service-card">
               <FaClipboardCheck className="icon icon-inspection" />
-              <h3>Safety Inspection & Upgrades</h3>
+              <h3>Geeks Safety Inspection & Upgrades</h3>
               <p>
                 Get your wiring, load distribution, and panel boards checked by certified experts. We identify risks and upgrade them safely.
               </p>
@@ -62,9 +62,9 @@ const Services = () => {
 
             <div className="service-card">
               <FaHeadset className="icon icon-support" />
-              <h3>Technical Assistance & AMC</h3>
+              <h3>Geeks Technical Assistance & AMC</h3>
               <p>
-                We offer expert advice, fault diagnosis, and Annual Maintenance Contracts (AMC) for long-term performance and peace of mind.
+                We offer Geeks advice, fault diagnosis, and Annual Maintenance Contracts (AMC) for long-term performance and peace of mind.
               </p>
             </div>
           </div>

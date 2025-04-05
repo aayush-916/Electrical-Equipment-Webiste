@@ -12,9 +12,9 @@ const Footer = () => {
     <footer className="footer-container">
       <div className="footer-content">
         <div className="footer-section about">
-          <h2 className="footer-logo">Electrical Eq</h2>
+          <h2 className="footer-logo">Justcallgeeks</h2>
           <p>
-            At Electrical Eq, we’re committed to delivering smart and reliable electrical
+            At Justcallgeeks, we’re committed to delivering smart and reliable electrical
             solutions for homes and businesses. From household installations to
             advanced workplace support, we prioritize safety, innovation, and
             satisfaction—every time.
@@ -23,6 +23,7 @@ const Footer = () => {
 
         <div className="footer-section links">
           <h3>Quick Links</h3>
+          
           <ul>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/about">About</Link></li>
@@ -38,7 +39,7 @@ const Footer = () => {
           <h3>Get in Touch</h3>
           <p>
             <FaEnvelope className="footer-icon mail" style={{ color: "#F06292" }} />{" "}
-            support@ElectricalEq.in
+            support@Justcallgeeks.in
           </p>
           <p>
             <FaPhoneAlt className="footer-icon mail" style={{ color: "#F06292" }} />{" "}
@@ -52,7 +53,7 @@ const Footer = () => {
       </div>
 
       <div className="footer-bottom">
-        <p>© {new Date().getFullYear()} Electrical Eq. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Justcallgeeks. All rights reserved.</p>
       </div>
     </footer>
   );

@@ -11,7 +11,7 @@ const Home = () => {
             Power. Performance. <span className="highlight">Peace of Mind.</span>
           </h1>
           <p className="home-subtitle">
-            We deliver high-quality household electrical equipment and professional support, ensuring efficiency and long-lasting reliability for your home or workplace.
+            We deliver high-quality household Justcallgeeksuipment, Geeks and professional support, ensuring efficiency and long-lasting reliability for your home or workplace.
           </p>
 
           <div className="icon-row">
@@ -21,7 +21,7 @@ const Home = () => {
             </div>
             <div className="icon-box icon-box-tools">
               <FaTools className="icon icon-tools" />
-              <span>Expert Setup</span>
+              <span>Geeks Setup</span>
             </div>
             <div className="icon-box icon-box-support">
               <FaHandsHelping className="icon icon-support" />
@@ -30,7 +30,7 @@ const Home = () => {
           </div>
 
           <p className="cta-text">
-            Experience practical solutions and expert advice tailored to your needs.
+            Experience practical solutions and Geeks advice tailored to your needs.
           </p>
         </div>
       </div>

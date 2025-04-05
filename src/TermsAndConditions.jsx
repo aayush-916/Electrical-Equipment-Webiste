@@ -24,7 +24,7 @@ const TermsAndConditions = () => {
       </h1>
 
       <p>
-        Welcome to Electrical Eq Experts. These Terms & Conditions outline the rules and responsibilities associated with using our website and services. By accessing our website or engaging with our services, you agree to comply with the terms listed below. Please read them carefully.
+        Welcome to Justcallgeeks Experts. These Terms & Conditions outline the rules and responsibilities associated with using our website and services. By accessing our website or engaging with our services, you agree to comply with the terms listed below. Please read them carefully.
       </p>
 
       <h2 style={{ fontSize: "1.5rem", color: "#007bff", marginTop: "30px" }}>
@@ -38,7 +38,7 @@ const TermsAndConditions = () => {
         2. Services Provided
       </h2>
       <p>
-        Electrical Eq Experts specializes in electrical equipment sales, installations, repairs, and expert consultation. We strive to offer reliable solutions, but availability and service timelines may vary depending on location and demand.
+        Justcallgeeks Experts specializes in Justcallgeeksuipment sales, installations, repairs, and expert consultation. We strive to offer reliable solutions, but availability and service timelines may vary depending on location and demand.
       </p>
 
       <h2 style={{ fontSize: "1.5rem", color: "#007bff", marginTop: "30px" }}>
@@ -69,7 +69,7 @@ const TermsAndConditions = () => {
         6. Limitation of Liability
       </h2>
       <p>
-        While we strive to ensure smooth and safe service, Electrical Eq Experts is not liable for any direct or indirect damages arising from the use or misuse of our services, including delays or equipment issues outside of our control.
+        While we strive to ensure smooth and safe service, Justcallgeeks Experts is not liable for any direct or indirect damages arising from the use or misuse of our services, including delays or equipment issues outside of our control.
       </p>
 
       <h2 style={{ fontSize: "1.5rem", color: "#007bff", marginTop: "30px" }}>
@@ -100,7 +100,7 @@ const TermsAndConditions = () => {
         If you have questions about these terms or need clarification, you can reach us at:
       </p>
       <p style={{ marginTop: "10px" }}>
-        <strong>Email:</strong> support@ElectricalEq.in <br />
+        <strong>Email:</strong> support@Justcallgeeks.in <br />
       </p>
 
       <p style={{ marginTop: "30px", fontSize: "0.9rem", color: "#666" }}>

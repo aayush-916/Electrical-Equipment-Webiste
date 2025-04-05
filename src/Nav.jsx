@@ -6,7 +6,7 @@ function Nav() {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/">Electrical Eq</Link>
+        <Link className="navbar-brand" to="/">Justcallgeeks</Link>
         <button
           className="navbar-toggler"
           type="button"

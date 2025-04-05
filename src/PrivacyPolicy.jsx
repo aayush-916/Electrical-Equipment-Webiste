@@ -24,7 +24,7 @@ const PrivacyPolicy = () => {
       </h1>
 
       <p>
-        At Electrical Eq Experts, we are committed to protecting your privacy and ensuring your data is handled securely and transparently. This policy outlines how we collect, use, and protect your information when you visit our website or use our services.
+        At Justcallgeeks Experts, we are committed to protecting your privacy and ensuring your data is handled securely and transparently. This policy outlines how we collect, use, and protect your information when you visit our website or use our services.
       </p>
 
       <h2 style={{ fontSize: "1.5rem", color: "#007bff", marginTop: "30px" }}>
@@ -86,7 +86,7 @@ const PrivacyPolicy = () => {
         If you have any questions about this Privacy Policy, feel free to contact us at:
       </p>
       <p style={{ marginTop: "10px" }}>
-        <strong>Email:</strong> support@Electrical Eq.in <br />
+        <strong>Email:</strong> support@Justcallgeeks.in <br />
         <strong>Phone:</strong> +91 98765 43210
       </p>
 
