@@ -41,6 +41,10 @@ const Footer = () => {
             support@ElectricalEq.in
           </p>
           <p>
+            <FaPhoneAlt className="footer-icon mail" style={{ color: "#F06292" }} />{" "}
+            +1129479318
+          </p>
+          <p>
             <FaMapMarkerAlt className="footer-icon location" style={{ color: "#4FC3F7" }} />{" "}
             Middle Village, NY 11379, USA
           </p>
